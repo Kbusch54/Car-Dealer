@@ -44,7 +44,7 @@ public class CarApp {
 			if (cont.equalsIgnoreCase("y")) {
 				cars.remove(x - 1);
 				loop = true;
-				System.out.println("thank you for your bussines");
+				System.out.println("Thank you for your business");
 			} else {
 				loop = false;
 			}
